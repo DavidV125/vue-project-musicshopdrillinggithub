@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as r}from"./index-Ca2-YMel.js";const c={data(){return{titulo:" Cmponenete no encontrado. NOT FOUND. Error 404-"}}},s={id:"divNotFound"},a=["innerHTML"];function d(_,i,p,u,o,f){return t(),n("div",s,[r("h1",{innerHTML:o.titulo},null,8,a)])}const m=e(c,[["render",d],["__scopeId","data-v-e0affbcb"]]);export{m as default};
